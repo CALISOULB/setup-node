@@ -23,14 +23,14 @@
   "author": "GitHub",
   "license": "MIT",
   "dependencies": {
-    "@actions/cache": "^1.0.7",
+    "@actions/cache": "^3.2.1",
     "@actions/core": "^1.6.0",
     "@actions/exec": "^1.1.0",
-    "@actions/github": "^1.1.0",
-    "@actions/glob": "^0.2.0",
+    "@actions/github": "^3.0.0",
+    "@actions/glob": "^0.4.0",
     "@actions/http-client": "^1.0.11",
     "@actions/io": "^1.0.2",
-    "@actions/tool-cache": "^1.5.4",
+    "@actions/tool-cache": "^1.6.1",
     "semver": "^6.1.1"
   },
   "devDependencies": {
